@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+.Container {
+    min-height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Card {
+    width: 300px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 20px;
+}
+.Card-image img{
+    height: 300px;
+    border-radius: 12px;
+}
+body {
+    background-color: #D5E1EF;
+}
+.title {
+    text-align: center;
+    padding: 10px;
+    font-family: "Outfit Bold";
+    margin-top: -12px;
+}
+.title2 {
+    color: #68778F;
+    font-family: "Outfit Regular";
+     margin-top: -10px;
+}
+h3 {
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+}
+    
